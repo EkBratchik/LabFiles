@@ -1,0 +1,9 @@
+SHORTNAME a
+A;a;Fri Jun 06 00:00:00 MSK 2002;a;Tue May 06 00:00:00 MSK 2000;1;x;x;x;x;x;x;
+INDUSTRY a
+A;a;Fri Jun 06 00:00:00 MSK 2002;x;Tue May 06 00:00:00 MSK 2000;1;x;x;x;x;x;x;
+B;b;Sun May 02 00:00:00 MSK 1999;x;Thu May 01 00:00:00 MSK 1939;235;x;x;x;x;x;x;
+C;c;Wen Oct 04 00:00:00 MSK 1999;x;Sun Oct 01 00:00:00 MSK 2019;1543;x;x;x;x;x;x;
+D;d;Wen Jan 28 00:00:00 MSK 1999;x;Fri Jan 30 00:00:00 MSK 2021;43;x;x;x;x;x;x;
+E;e;Mon Apr 01 00:00:00 MSK 1999;x;Mon Apr 01 00:00:00 MSK 1999;52;x;x;x;x;x;x;
+SHORTNAME nepv
