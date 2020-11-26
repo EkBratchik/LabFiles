@@ -1,0 +1,4 @@
+Mac;Mac;26.12.1008;Belarus;12.12.1887;100;Sat;567566767;Sat@gmail.com;service;gadgets;www.Mac.com;
+Fox;Fox;20.04.1954;Los Angeles;04.01.1928;100000;Jhon;;Jhon@gmail.com;entertainments;film;www.Fox.com;
+Adidas;Adidas;24.05.1964;USA;11.10.1905;25000;Max;;;sport;clothing;www.Adidas.com;
+Ford;Ford;11.03.1980;USA;06.06.1970;24342;Henry;;Henry@bk.ru;service;cars;www.Ford.com;

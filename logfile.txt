@@ -1,0 +1,54 @@
+ноя 25, 2020 7:44:02 PM com.Main main
+FINE: Program started...
+
+ноя 25, 2020 7:44:02 PM com.Main getByRequestSQL
+FINE: SQL request: select * from company_table where short_name=Mac employee between 90 and 181
+Companies found: 1
+ноя 25, 2020 7:44:02 PM com.Main getByRequestSQL
+FINE: SQL request: select * from company_table where short_name=FOX industry=entertainments
+Companies found: 1
+ноя 25, 2020 7:47:44 PM com.Main main
+FINE: Program started...
+
+ноя 25, 2020 7:52:02 PM com.Main main
+FINE: Program started...
+
+ноя 25, 2020 7:52:28 PM com.Main getByRequest
+FINE: Find company  :Nike, Companies found: 1
+
+ноя 25, 2020 7:56:07 PM com.Main main
+FINE: Program started...
+
+ноя 25, 2020 7:57:08 PM com.Main main
+FINE: Program started...
+
+ноя 25, 2020 7:57:16 PM com.Main getByRequest
+FINE: Find company  :20, Companies found: 0
+
+ноя 25, 2020 7:57:25 PM com.Main getByRequest
+FINE: Find company  :Nike, Companies found: 0
+
+ноя 25, 2020 8:10:01 PM com.Main main
+FINE: Program started...
+
+ноя 25, 2020 8:10:09 PM com.Main getByRequest
+FINE: Find company  :Nike, Companies found: 1
+
+ноя 25, 2020 8:10:34 PM com.Main getByRequest
+FINE: Find company  :25001, Companies found: 1
+
+ноя 25, 2020 8:16:05 PM com.Main main
+FINE: Program started
+
+ноя 25, 2020 8:16:13 PM com.Main getByRequest
+FINE: Find company  :Nike, Companies found: 1
+
+ноя 25, 2020 8:46:17 PM com.Main main
+FINE: Program started
+
+ноя 26, 2020 9:13:59 AM com.Main main
+FINE: Program started
+
+ноя 26, 2020 9:14:48 AM com.Main getByRequest
+FINE: Find company  :13.12.1888, Companies found: 1
+
